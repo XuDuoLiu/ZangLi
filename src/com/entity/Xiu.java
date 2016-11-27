@@ -142,7 +142,7 @@ public class Xiu {
 	/**
 	 * ¼õ·¨ÔËËã
 	 */
-	public void mul(Xiu x){
+	public void sub(Xiu x){
 		
 	}
 }
